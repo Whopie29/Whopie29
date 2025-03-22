@@ -11,7 +11,9 @@
 
 - 💬 Ask me about **how to code**
 <img align='right' src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/anime_typing.gif" width="250"/>
+
 - 📫 How to reach me **gauravmalik81809@gmail.com**
+
 - ⚡ Fun fact **Python is my spirit animal.**
 
 
