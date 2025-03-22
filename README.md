@@ -22,7 +22,7 @@
 <a href="https://www.leetcode.com/whopie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="whopie" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gauravmallz0v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gauravmallz0v" height="30" width="40" /></a>
 <div style="position: relative; height: 0;">
-    <img src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/anime_typing.gif" width="250" style="position: absolute; top: -70px; right: 0;" />
+    <img align="right" src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/anime_typing.gif" width="250" style="position: absolute; top: -70px; right: 0;" />
 </div>
 
 
