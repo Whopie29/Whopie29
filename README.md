@@ -11,12 +11,14 @@
 
 - 💬 Ask me about **how to code**
 
-- 📫 How to reach me **gauravmalik81809@gmail.com**  
+- 📫 How to reach me **gauravmalik81809@gmail.com**
+  
+  <p align="right" style="margin-top: -20px;">
+  <img src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/anime_typing.gif" width="250"/>
+  </p>
+
 - ⚡ Fun fact **Python is my spirit animal.**
 
-<p align="right" style="margin-top: -20px;">
-  <img src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/anime_typing.gif" width="250"/>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
