@@ -48,6 +48,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whopie29&" alt="whopie29" /></p>
 
-### 🐍 Contribution Snake Game  
+
 ![GitHub Snake Animation](https://raw.githubusercontent.com/Whopie29/Whopie29/output/github-contribution-grid-snake.svg)
 
