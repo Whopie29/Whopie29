@@ -47,3 +47,4 @@
 <img src="https://raw.githubusercontent.com/Whopie29/Whopie29/output/snake.svg" alt="Snake animation" />
 
 ###
+
