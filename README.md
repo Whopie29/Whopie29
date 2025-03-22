@@ -13,10 +13,8 @@
 
 - 📫 How to reach me **gauravmalik81809@gmail.com**
   
-  <p align="right" style="margin-top: -20px;">
-  <img src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/anime_typing.gif" width="250"/>
-  </p>
-
+  <img align='right' src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/anime_typing.gif" width="250"/>
+  
 - ⚡ Fun fact **Python is my spirit animal.**
 
 
