@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Whopie29/Whopie29](https://github.com/Whopie29/Whopie29)
+- 👨‍💻 All of my projects are available at [https://github.com/Whopie29](https://github.com/Whopie29/Whopie29)
 
 - 💬 Ask me about **how to code**
 
