@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me  
 - 🌱 Currently learning **Deep Learning, DSA**  
-- 👨‍💻 All my projects live here → [**My GitHub**](https://github.com/Whopie29/Whopie29)  
+- 👨‍💻 All my projects live here → [**My GitHub**](https://github.com/Whopie29/Whopie29?tab=repositories)  
 - 💬 Ask me about **Python, AI, and how to code anything**  
 - 📫 Reach me at **gauravmalik81809@gmail.com**  
 - ⚡ Fun fact → *Python is my spirit animal 🐍*  
