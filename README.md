@@ -63,11 +63,22 @@
 ---
 
 <!-- Snake -->
-<h3 align="center">🐍 My Contributions Snake</h3>
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<h2 align="center">🐍 My Contribution Snake 🐍</h2>
 
+<p align="center">
+  <!-- Neon Style -->
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/dist/snake-neon.svg" alt="Neon Snake Animation" width="80%"/><br><br>
+  
+  <!-- Rainbow Style -->
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/dist/snake-rainbow.svg" alt="Rainbow Snake Animation" width="80%"/><br><br>
+  
+  <!-- Dark Mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/dist/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/dist/snake-default.svg" />
+    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/dist/snake-default.svg" alt="Snake Animation" width="80%" />
+  </picture>
+</p>
 ---
 
 <!-- Footer Quote -->
