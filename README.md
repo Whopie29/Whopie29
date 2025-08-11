@@ -1,13 +1,13 @@
 <!-- Title -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  Hey there, I'm <span style="color:#4FC3F7;">Gaurav Malik</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> 
+  Hey there, I'm <span style="color:#00ffff; text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff;">Gaurav Malik</span>
 </h1>
 <h3 align="center">🚀 AI Enthusiast | 💻 Developer | 🇮🇳 India</h3>
 
 <!-- Profile Views & Trophy -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=whopie29&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=whopie29&label=Profile%20Views&color=00ffff&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 ---
 
 <!-- About Me -->
-<img align="right" src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/anime_typing.gif" width="280"/>
+<img align="right" src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/anime_typing.gif" width="280" />
 
 ### 👨‍💻 About Me  
 - 🌱 Currently learning **Deep Learning, DSA**  
@@ -33,10 +33,10 @@
 <!-- Connect Section -->
 <h3 align="left">🌐 Let's Connect</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/gaurav-malik-aiml007" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/gauravmalik81809" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://leetcode.com/whopie" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/gauravmallz0v" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/gaurav-malik-aiml007" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/gauravmalik81809" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://leetcode.com/whopie" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/gauravmallz0v" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
 ---
@@ -52,8 +52,8 @@
 <!-- Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whopie29&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whopie29&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=whopie29&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whopie29&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
