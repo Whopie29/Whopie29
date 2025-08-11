@@ -3,12 +3,15 @@ name: Metrics
 on:
   schedule:
     - cron: "0 0 * * *"  # every day at midnight
-  workflow_dispatch:      # manual run
+  workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -21,3 +24,12 @@ jobs:
           plugin_activity: yes
           plugin_achievements: yes
           theme: dark
+          output: metrics.svg
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics.svg
+          git commit -m "Update GitHub Metrics" || echo "No changes to commit"
+          git push
