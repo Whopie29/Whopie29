@@ -63,17 +63,16 @@
 ---
 
 <!-- Snake -->
+<!-- Snake -->
 <h3 align="center">🐍 My Contribution Snake</h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whopie29/Whopie29/.github
-/workflows/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whopie29/Whopie29/.github
-/workflows/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/whopie29/Whopie29/.github
-/workflows/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whopie29/Whopie29/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whopie29/Whopie29/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/whopie29/Whopie29/output/github-snake.svg" />
   </picture>
 </p>
+
 
   
   <!-- Dark Mode -->
