@@ -10,10 +10,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Metrics
+      - name: Generate metrics.svg
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
           base: header, activity, community, repositories, metadata
           template: classic
           config_timezone: Asia/Kolkata
@@ -23,11 +24,10 @@ jobs:
           plugin_achievements: yes
           theme: dark
 
-      - name: Commit metrics
+      - name: Commit metrics.svg
         run: |
-          mv metrics.svg ./metrics.svg
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add metrics.svg
-          git commit -m "Update metrics" || echo "No changes to commit"
+          git commit -m "Update metrics.svg" || echo "No changes to commit"
           git push
