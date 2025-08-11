@@ -78,7 +78,7 @@
 <!-- 3) Metrics / Dev Dashboard -->
 <h3 align="center">📈 Dev Metrics Dashboard</h3>
 <p align="center">
-  <img src="https://metrics.lecoq.io/whopie29?template=classic&languages=1&isocalendar=1&activity=1&achievements=1&theme=dark&token=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" alt="Dev Metrics" />
+  <img src="https://metrics.lecoq.io/whopie29?template=classic&languages=1&isocalendar=1&activity=1&achievements=1&theme=dark&token=METRICS_TOKEN" alt="Dev Metrics" />
 </p>
 
 ---
