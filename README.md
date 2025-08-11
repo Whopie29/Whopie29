@@ -68,3 +68,63 @@
 
 <!-- Footer Quote -->
 <h3 align="center">💡 "Code is like humor — when you have to explain it, it’s bad." 💡</h3>
+
+---
+
+<!-- =========================
+     DYNAMIC ADDITIONS (NEW)
+     ========================= -->
+
+<!-- Divider -->
+<p align="center">--- ★ Dynamic widgets to make the README come alive ★ ---</p>
+
+<!-- 1) Contribution Calendar Heatmap (larger activity graph) -->
+<h3 align="center">🔥 Contribution Heatmap</h3>
+<p align="center">
+  <!-- This shows a larger, styled activity graph that updates daily -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whopie29&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<!-- 2) GitHub Skyline 3D (instruction + placeholder) -->
+<h3 align="center">🏙️ GitHub Skyline (3D)</h3>
+<p align="center">
+  <!-- Skyline requires generating a gif from the skyline site. Example placeholder below. 
+       To enable: visit https://skyline.github.com/, enter your username, download GIF, 
+       add it to your repo (e.g. assets/skyline.gif) and replace the src below. -->
+  <!-- Example embed once you upload skyline.gif to your repo: -->
+  <!-- <img src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/assets/skyline.gif" alt="GitHub Skyline" /> -->
+  <em>Generate a Skyline GIF at <a href="https://skyline.github.com/">skyline.github.com</a>, upload to your repo (e.g. `assets/skyline.gif`) and uncomment the img tag above.</em>
+</p>
+
+<!-- 3) Metrics / Dev Dashboard (optional comprehensive metrics) -->
+<h3 align="center">📈 Dev Metrics Dashboard</h3>
+<p align="center">
+  <!-- Metrics by lecoq/metrics (no-auth, dynamic) -->
+  <img src="https://metrics.lecoq.io/whopie29?template=classic&languages=1&isocalendar=1&activity=1&achievements=1&theme=dark" alt="Dev Metrics" />
+</p>
+
+<!-- 4) Dynamic Quote (random programming quote) -->
+<h3 align="center">💬 Daily Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+<!-- 5) Spotify Now Playing (optional - requires setup) -->
+<h3 align="center">🎧 Now Playing (Spotify)</h3>
+<p align="center">
+  <!-- Public "now playing" cards need a small setup; placeholder below. 
+       If you'd like, I can add setup steps and help connect your Spotify to the card. -->
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Now Playing on Spotify" />
+  <br />
+  <em>Note: connect Spotify API for personal "now playing" (optional).</em>
+</p>
+
+<!-- 6) Compact one-line summary bar (quick glance) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-00b894?style=for-the-badge&logo=github" alt="Status"/>
+  <img src="https://img.shields.io/badge/TopLangs-Python%20%7C%20C%2B%2B-ffeaa7?style=for-the-badge" alt="Top Langs"/>
+  <img src="https://img.shields.io/badge/Spent%20on%20Code-∞-a29bfe?style=for-the-badge" alt="Fun"/>
+</p>
+
+<!-- Closing note -->
+<p align="center"><em>Want me to wire up the Skyline GIF and Spotify (I'll give exact commands and the one-liners to paste)? — I can prepare the exact files and the final README with those assets included.</em></p>
