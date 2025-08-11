@@ -63,23 +63,8 @@
 ---
 
 <!-- Snake -->
-<h2 align="center">🐍 My Contribution Snakes</h2>
-
 <p align="center">
-  <!-- Default -->
-  <img src="https://raw.githubusercontent.com/whopie29/whopie29/output/snake-default.svg" width="80%"/>
-  
-  <!-- Neon -->
-  <img src="https://raw.githubusercontent.com/whopie29/whopie29/output/snake-neon.svg" width="80%"/>
-  
-  <!-- Rainbow -->
-  <img src="https://raw.githubusercontent.com/whopie29/whopie29/output/snake-rainbow.svg" width="80%"/>
-  
-  <!-- Pastel -->
-  <img src="https://raw.githubusercontent.com/whopie29/whopie29/output/snake-pastel.svg" width="80%"/>
-  
-  <!-- Glow -->
-  <img src="https://raw.githubusercontent.com/whopie29/whopie29/output/snake-glow.svg" width="80%"/>
+  <img src="https://raw.githubusercontent.com/whopie29/Whopie29/output/dist/snake-neon.svg" width="80%" />
 </p>
 
 
