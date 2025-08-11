@@ -2,32 +2,53 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # daily at midnight
+  workflow_dispatch:    # manual run
+
+# allow pushing back to the repo
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
-      - name: Generate Snake Animations
+      - name: Generate Snake Animations (multiple styles)
         uses: Platane/snk@v3
         with:
           github_user_name: whopie29
           outputs: |
             dist/snake-default.svg
             dist/snake-dark.svg?palette=github-dark
-            dist/snake-neon.svg?color_snake=#39FF14&color_dots=#1a1a1a,#333333,#666666,#999999,#cccccc
-            dist/snake-rainbow.svg?color_snake=#ff0000,#ff9900,#33cc33,#3399ff,#9933ff
-            dist/snake-pastel.svg?color_snake=#ffb3ba,#ffdfba,#ffffba,#baffc9,#bae1ff
-            dist/snake-glow.svg?color_snake=#00ffff&color_dots=#000000,#111111,#222222,#444444,#888888
+            # colors use URL-encoded hashes (%23) so YAML/comments don't break
+            dist/snake-neon.svg?color_snake=%2339FF14&color_dots=%231a1a1a,%23333333,%23666666,%23999999,%23cccccc
+            dist/snake-rainbow.svg?color_snake=%23ff0000,%23ff9900,%2333cc33,%233399ff,%239933ff
+            dist/snake-pastel.svg?color_snake=%23ffb3ba,%23ffdfba,%23ffffba,%23baffc9,%23bae1ff
+            dist/snake-glow.svg?color_snake=%2300ffff&color_dots=%23000000,%23111111,%23222222,%23444444,%23888888
 
-      - name: Push Snake Animations to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Show generated files (debug)
+        run: |
+          echo "=== Dist directory listing ==="
+          ls -la dist || echo "dist directory not found"
+          echo "=== File sizes ==="
+          du -sh dist/* || echo "no files"
+
+      - name: Commit & push to 'output' branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # create/reset the output branch locally
+          git checkout -B output
+          # add the generated files (force to include new files)
+          git add -f dist || true
+          # commit only if there are changes
+          git commit -m "chore: update generated snake animations" || echo "No changes to commit"
+          # push the output branch back to origin
+          git push -u origin output --force
