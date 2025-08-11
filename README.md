@@ -63,10 +63,7 @@
 ---
 
 <!-- Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/whopie29/Whopie29/output/dist/snake-neon.svg" width="80%" />
-</p>
-
+![Snake animation](https://github.com/whopie29/<REPO>/raw/output/github-contribution-grid-snake.svg)
 
 
   
