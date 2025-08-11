@@ -70,8 +70,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=whopie29&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app?user=whopie29&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
+
 
 
 ---
