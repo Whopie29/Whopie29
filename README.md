@@ -66,15 +66,5 @@
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
-  
-  <!-- Dark Mode -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/dist/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/dist/snake-default.svg" />
-    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/dist/snake-default.svg" alt="Snake Animation" width="80%" />
-  </picture>
-</p>
----
-
 <!-- Footer Quote -->
 <h3 align="center">💡 "Code is like humor — when you have to explain it, it’s bad." 💡</h3>
