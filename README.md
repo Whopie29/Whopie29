@@ -63,15 +63,25 @@
 ---
 
 <!-- Snake -->
-<!-- Snake -->
-<h3 align="center">🐍 My Contribution Snake</h3>
+<h2 align="center">🐍 My Contribution Snakes</h2>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whopie29/Whopie29/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whopie29/Whopie29/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/whopie29/Whopie29/output/github-snake.svg" />
-  </picture>
+  <!-- Default -->
+  <img src="https://raw.githubusercontent.com/whopie29/whopie29/output/snake-default.svg" width="80%"/>
+  
+  <!-- Neon -->
+  <img src="https://raw.githubusercontent.com/whopie29/whopie29/output/snake-neon.svg" width="80%"/>
+  
+  <!-- Rainbow -->
+  <img src="https://raw.githubusercontent.com/whopie29/whopie29/output/snake-rainbow.svg" width="80%"/>
+  
+  <!-- Pastel -->
+  <img src="https://raw.githubusercontent.com/whopie29/whopie29/output/snake-pastel.svg" width="80%"/>
+  
+  <!-- Glow -->
+  <img src="https://raw.githubusercontent.com/whopie29/whopie29/output/snake-glow.svg" width="80%"/>
 </p>
+
 
 
   
