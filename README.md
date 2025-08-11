@@ -63,7 +63,7 @@
 ---
 
 <!-- Snake -->
-![Snake animation](https://github.com/whopie29/Whopie29/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
   
