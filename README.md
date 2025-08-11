@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=whopie29&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=whopie29&theme=radical&margin-w=10&margin-h=10&row=1" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -73,10 +73,9 @@
   <img src="https://streak-stats.vercel.app?user=whopie29&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
-
-
 ---
 
+<h3 align="center">🐍 Watch my contributions come alive!</h3>
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
