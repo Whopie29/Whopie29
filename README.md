@@ -62,16 +62,26 @@
 
 ---
 
-<!-- Snake Animation -->
+<!-- Snake -->
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-<!-- Activity Graph -->
-<h3 align="center">📈 Contribution Graph</h3>
+<!-- 4) Dynamic Quote -->
+<h3 align="center">💬 Daily Dev Quote</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whopie29&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
+
+---
+
+<!-- 3) Metrics / Dev Dashboard -->
+<h3 align="center">📈 Dev Metrics Dashboard</h3>
+<p align="center">
+  <img src="https://metrics.lecoq.io/whopie29?template=classic&languages=1&isocalendar=1&activity=1&achievements=1&theme=dark" alt="Dev Metrics" />
+</p>
+
+---
 
 <!-- Footer Quote -->
 <h3 align="center">💡 "Code is like humor — when you have to explain it, it’s bad." 💡</h3>
