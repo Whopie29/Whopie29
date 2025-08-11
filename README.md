@@ -63,14 +63,25 @@
 ---
 
 <!-- Snake -->
-<h2 align="center">🐍 My Contribution Snake 🐍</h2>
+<h2 align="center">🐍 My Contribution Snakes</h2>
 
 <p align="center">
-  <!-- Neon Style -->
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/dist/snake-neon.svg" alt="Neon Snake Animation" width="80%"/><br><br>
+  <!-- Default -->
+  <img src="https://raw.githubusercontent.com/whopie29/whopie29/output/snake-default.svg" width="80%"/>
   
-  <!-- Rainbow Style -->
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/dist/snake-rainbow.svg" alt="Rainbow Snake Animation" width="80%"/><br><br>
+  <!-- Neon -->
+  <img src="https://raw.githubusercontent.com/whopie29/whopie29/output/snake-neon.svg" width="80%"/>
+  
+  <!-- Rainbow -->
+  <img src="https://raw.githubusercontent.com/whopie29/whopie29/output/snake-rainbow.svg" width="80%"/>
+  
+  <!-- Pastel -->
+  <img src="https://raw.githubusercontent.com/whopie29/whopie29/output/snake-pastel.svg" width="80%"/>
+  
+  <!-- Glow -->
+  <img src="https://raw.githubusercontent.com/whopie29/whopie29/output/snake-glow.svg" width="80%"/>
+</p>
+
   
   <!-- Dark Mode -->
   <picture>
