@@ -76,11 +76,8 @@
 ---
 
 <!-- 3) Metrics / Dev Dashboard -->
-<!-- 3) Metrics / Dev Dashboard -->
-<h3 align="center">📈 Dev Metrics Dashboard</h3>
-<p align="center">
-  <img src="./metrics.svg" alt="Dev Metrics" />
-</p>
+### 📈 Dev Metrics Dashboard
+![GitHub Metrics](./metrics.svg)
 
 ---
 
