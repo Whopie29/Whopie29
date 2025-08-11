@@ -1,54 +1,34 @@
-name: Generate Snake Game
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # daily at midnight
-  workflow_dispatch:    # manual run
+    - cron: "0 0 * * *"  # runs every day at midnight UTC
+  workflow_dispatch:     # allows manual trigger
 
-# allow pushing back to the repo
 permissions:
-  contents: write
+  contents: write        # needed to push to the output branch
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          persist-credentials: true
 
-      - name: Generate Snake Animations (multiple styles)
+      - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
           github_user_name: whopie29
           outputs: |
-            dist/snake-default.svg
-            dist/snake-dark.svg?palette=github-dark
-            # colors use URL-encoded hashes (%23) so YAML/comments don't break
-            dist/snake-neon.svg?color_snake=%2339FF14&color_dots=%231a1a1a,%23333333,%23666666,%23999999,%23cccccc
-            dist/snake-rainbow.svg?color_snake=%23ff0000,%23ff9900,%2333cc33,%233399ff,%239933ff
-            dist/snake-pastel.svg?color_snake=%23ffb3ba,%23ffdfba,%23ffffba,%23baffc9,%23bae1ff
-            dist/snake-glow.svg?color_snake=%2300ffff&color_dots=%23000000,%23111111,%23222222,%23444444,%23888888
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-neon.svg?color_snake=%2339FF14
 
-      - name: Show generated files (debug)
-        run: |
-          echo "=== Dist directory listing ==="
-          ls -la dist || echo "dist directory not found"
-          echo "=== File sizes ==="
-          du -sh dist/* || echo "no files"
-
-      - name: Commit & push to 'output' branch
+      - name: Push generated files to output branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # create/reset the output branch locally
           git checkout -B output
-          # add the generated files (force to include new files)
-          git add -f dist || true
-          # commit only if there are changes
-          git commit -m "chore: update generated snake animations" || echo "No changes to commit"
-          # push the output branch back to origin
-          git push -u origin output --force
+          git add dist
+          git commit -m "Generated snake animation" || echo "No changes to commit"
+          git push origin output --force
