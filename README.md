@@ -29,7 +29,6 @@
 - ⚡ Fun fact → *Python is my spirit animal 🐍*  
 
 ---
-
 <!-- Connect Section -->
 <h3 align="left">🌐 Let's Connect</h3>
 <p align="left">
