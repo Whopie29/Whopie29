@@ -41,20 +41,30 @@
 ---
 
 <!-- Skills -->
+<!-- Skills -->
 <h3 align="center">🛠 Languages & Tools</h3>
-<p align="center">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  
   <!-- skillicons.dev icons -->
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,flask,git,mysql,mongodb,opencv,pandas,pytorch,tensorflow,sklearn,seaborn,qt,keras" />
-  
+
   <!-- NumPy -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="48" alt="NumPy" />
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" 
+       height="48" width="48" alt="NumPy" 
+       style="background:white; border-radius:10px; padding:5px; box-shadow:0 0 5px rgba(0,0,0,0.2);" />
+
   <!-- Matplotlib -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="48" alt="Matplotlib" />
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" 
+       height="48" width="48" alt="Matplotlib" 
+       style="background:white; border-radius:10px; padding:5px; box-shadow:0 0 5px rgba(0,0,0,0.2);" />
+
   <!-- Power BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" alt="Power BI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
+       height="48" width="48" alt="Power BI" 
+       style="background:white; border-radius:10px; padding:5px; box-shadow:0 0 5px rgba(0,0,0,0.2);" />
+
 </p>
+
 
 ---
 
