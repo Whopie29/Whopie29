@@ -43,7 +43,17 @@
 <!-- Skills -->
 <h3 align="center">🛠 Languages & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,flask,git,mysql,mongodb,opencv,pandas,numpy,matplotlib,pytorch,tensorflow,sklearn,seaborn,qt,keras,powerbi" />
+  <!-- skillicons.dev icons -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,flask,git,mysql,mongodb,opencv,pandas,pytorch,tensorflow,sklearn,seaborn,qt,keras" />
+  
+  <!-- NumPy -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="48" alt="NumPy" />
+  
+  <!-- Matplotlib -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="48" alt="Matplotlib" />
+  
+  <!-- Power BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" alt="Power BI" />
 </p>
 
 ---
