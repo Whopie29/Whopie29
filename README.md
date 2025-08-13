@@ -43,7 +43,7 @@
 <!-- Skills -->
 <h3 align="center">🛠 Languages & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,mysql,mongodb,opencv,pandas,pytorch,tensorflow,sklearn,seaborn,qt" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,flask,git,mysql,mongodb,opencv,pandas,numpy,matplotlib,pytorch,tensorflow,sklearn,seaborn,qt,keras,powerbi" />
 </p>
 
 ---
