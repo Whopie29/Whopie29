@@ -26,8 +26,9 @@
 
 <h4>👨‍💻 About Me</h4>
 
-<img align="right" alt="Coding" width="320"
-src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/Tech%20Coding%20GIF%20by%20Capgemini%20India.gif"/>
+<table>
+<tr>
+<td width="65%">
 
 ```yaml
 Name: Gaurav Malik
@@ -52,7 +53,19 @@ Currently Learning:
   - System Design
 ```
 
-<br clear="right"/>
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img
+src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/Tech%20Coding%20GIF%20by%20Capgemini%20India.gif"
+width="320"
+/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
