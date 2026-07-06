@@ -87,7 +87,7 @@ Currently Learning:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Whopie29&theme=tokyo-night"/>
+<img src="https://streak-stats.demolab.com?user=Whopie29&theme=tokyonight"/>
 
 </p>
 
