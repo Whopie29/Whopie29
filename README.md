@@ -97,15 +97,18 @@ Currently Learning:
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=whopie29&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%"
+src="https://github-readme-stats.vercel.app/api?username=Whopie29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=whopie29&theme=tokyonight&hide_border=true"/>
+<img width="48%"
+src="https://streak-stats.demolab.com?user=Whopie29&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whopie29&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="42%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whopie29&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
