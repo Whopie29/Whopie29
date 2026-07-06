@@ -26,17 +26,24 @@
 
 <h4>👨‍💻 About Me</h4>
 
-<img align="right" width="300"
+<p align="center">
+<img align="right" width="320"
 src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/Tech%20Coding%20GIF%20by%20Capgemini%20India.gif"/>
 
-- 🎓 B.Tech CSE (AIML)
-- 🇮🇳 Based in India
-- 🤖 AI & ML Enthusiast
-- 💻 Full Stack Developer
-- 🚀 Building AI-powered applications
-- 🌱 Exploring LLMs, LangChain and AI Agents
+🔹 **B.Tech CSE (AIML)**  
+🔹 **Based in India 🇮🇳**  
+🔹 **AI & ML Enthusiast**  
+🔹 **Full Stack Developer**  
+🔹 **Building AI-powered applications**  
+🔹 **Exploring LLMs, LangChain & AI Agents**  
+🔹 **Open Source Contributor**  
+🔹 **Always learning something new 🚀**
+
+</p>
 
 <br clear="right"/>
+
+---
 
 
 ---
