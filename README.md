@@ -8,11 +8,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=AI+Engineer;Data+Science+Enthusiast;Open+Source+Contributor;Building+Cool+Projects;Always+Learning+New+Things"/>
 </p>
 
-<h3 align="center">
+<h4 align="center">
 
 🚀 AI Engineer | Data Scientist | Full Stack Developer
 
-</h3>
+</h4>
 
 <p align="center">
 
@@ -24,7 +24,7 @@
 
 ---
 
-# 👨‍💻 About Me
+<h4>👨‍💻 About Me</h4>
 
 ```yaml
 Name: Gaurav Malik
@@ -51,7 +51,7 @@ Currently Learning:
 
 ---
 
-# 🌐 Connect With Me
+<h4>🌐 Connect With Me</h4>
 
 <p align="center">
 
@@ -75,7 +75,7 @@ Currently Learning:
 
 ---
 
-# ⚡ Tech Stack
+<h4>⚡ Tech Stack</h4>
 
 <p align="center">
 
@@ -85,7 +85,7 @@ Currently Learning:
 
 ---
 
-# 🏆 Achievements
+<h4>🏆 Achievements</h4>
 
 <p align="center">
 
@@ -101,7 +101,7 @@ Currently Learning:
 
 ---
 
-# 🚀 Featured Projects
+<h4>🚀 Featured Projects</h4>
 
 | Project | Description |
 |---------|-------------|
@@ -113,7 +113,7 @@ Currently Learning:
 
 ---
 
-# 📈 Contribution Graph
+<h4>📈 Contribution Graph</h4>
 
 <p align="center">
 
@@ -123,7 +123,7 @@ Currently Learning:
 
 ---
 
-# 🐍 Contribution Snake
+<h4>🐍 Contribution Snake</h4>
 
 <p align="center">
 
@@ -133,7 +133,7 @@ Currently Learning:
 
 ---
 
-# 💻 Coding Profiles
+<h4>💻 Coding Profiles</h4>
 
 <p align="center">
 
@@ -147,7 +147,7 @@ Currently Learning:
 
 ---
 
-# 📚 Currently Exploring
+<h4>📚 Currently Exploring</h4>
 
 ```text
 LLMs
@@ -162,7 +162,7 @@ Open Source AI
 
 ---
 
-# 💬 Quote
+<h4>💬 Quote</h4>
 
 <p align="center">
 
