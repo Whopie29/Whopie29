@@ -29,7 +29,7 @@
 <table align="center">
 <tr>
 
-<td width="55%" valign="middle">
+<td width="100%" valign="middle">
 
 ```yaml
 Name: Gaurav Malik
@@ -56,9 +56,9 @@ Currently Learning:
 
 </td>
 
-<td width="10%"></td>
+<td width="20%"></td>
 
-<td width="35%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 
 <img
 src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/Tech%20Coding%20GIF%20by%20Capgemini%20India.gif"
