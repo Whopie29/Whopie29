@@ -26,9 +26,10 @@
 
 <h4>👨‍💻 About Me</h4>
 
-<table>
+<table align="center">
 <tr>
-<td width="65%">
+
+<td width="55%" valign="middle">
 
 ```yaml
 Name: Gaurav Malik
@@ -54,6 +55,8 @@ Currently Learning:
 ```
 
 </td>
+
+<td width="10%"></td>
 
 <td width="35%" align="center" valign="middle">
 
