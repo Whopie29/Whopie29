@@ -1,24 +1,160 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whopie29&label=Profile%20views&color=0e75b6&style=flat" alt="whopie29" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whopie29" alt="whopie29" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gauravmalik29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravmalik29" height="30" width="40" /></a>
-<a href="https://kaggle.com/gauravmalik29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gauravmalik29" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gauravmalik81809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauravmalik81809" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/whopie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="whopie" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gauravmallz0v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gauravmallz0v" height="30" width="40" /></a>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=Gaurav%20Malik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%7C+ML+Developer;Data+Science+Enthusiast;Open+Source+Contributor;Building+Cool+Projects;Always+Learning+New+Things"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whopie29&show_icons=true&locale=en&layout=compact" alt="whopie29" /></p>
+<h3 align="center">🚀 AI Engineer | Data Scientist | Full Stack Developer</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whopie29&show_icons=true&locale=en" alt="whopie29" /></p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=whopie29&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Whopie29?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/Whopie29?style=for-the-badge"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whopie29&" alt="whopie29" /></p>
+---
 
+# 👨‍💻 About Me
+
+```yaml
+Name: Gaurav Malik
+
+Education:
+  B.Tech CSE (AIML)
+
+Location:
+  India 🇮🇳
+
+Interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Data Science
+  - Full Stack Development
+  - Open Source
+
+Currently Learning:
+  - LLMs
+  - AI Agents
+  - LangChain
+  - System Design
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/gauravmalik29">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://kaggle.com/gauravmalik29">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://www.leetcode.com/whopie">
+<img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/gauravmalik81809">
+<img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/gauravmallz0v">
+<img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,tailwind,git,github,docker,flask,tensorflow,pytorch,opencv,sklearn"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=whopie29&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=whopie29&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=whopie29&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whopie29&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=whopie29&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/whopie">
+<img src="https://leetcard.jacoblin.cool/whopie?theme=dark&font=Karma"/>
+</a>
+
+</p>
+
+---
+
+# 🔥 Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+
+</p>
