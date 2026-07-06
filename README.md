@@ -87,7 +87,7 @@ Currently Learning:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Whopie29&theme=algolia"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Whopie29&theme=tokyonight"/>
 
 </p>
 
