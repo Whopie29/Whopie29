@@ -26,51 +26,18 @@
 
 <h4>👨‍💻 About Me</h4>
 
-<table align="center">
-<tr>
+<img align="right" width="300"
+src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/Tech%20Coding%20GIF%20by%20Capgemini%20India.gif"/>
 
-<td width="100%" valign="middle">
+- 🎓 B.Tech CSE (AIML)
+- 🇮🇳 Based in India
+- 🤖 AI & ML Enthusiast
+- 💻 Full Stack Developer
+- 🚀 Building AI-powered applications
+- 🌱 Exploring LLMs, LangChain and AI Agents
 
-```yaml
-Name: Gaurav Malik
+<br clear="right"/>
 
-Education:
-  B.Tech CSE (AIML)
-
-Location:
-  India 🇮🇳
-
-Interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Science
-  - Full Stack Development
-  - Open Source
-
-Currently Learning:
-  - LLMs
-  - AI Agents
-  - LangChain
-  - System Design
-```
-
-</td>
-
-<td width="20%"></td>
-
-<td width="30%" align="center" valign="middle">
-
-<img
-src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/Tech%20Coding%20GIF%20by%20Capgemini%20India.gif"
-width="320"
-/>
-
-</td>
-
-</tr>
-</table>
-
----
 
 ---
 
