@@ -26,6 +26,9 @@
 
 <h4>👨‍💻 About Me</h4>
 
+<img align="right" alt="Coding" width="320"
+src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/Tech%20Coding%20GIF%20by%20Capgemini%20India.gif"/>
+
 ```yaml
 Name: Gaurav Malik
 
@@ -48,6 +51,10 @@ Currently Learning:
   - LangChain
   - System Design
 ```
+
+<br clear="right"/>
+
+---
 
 ---
 
