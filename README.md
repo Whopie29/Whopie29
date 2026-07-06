@@ -126,7 +126,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whopie29&lay
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Whopie29/Whopie29/output/github-contribution-grid-snake.svg"/>
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 </p>
 
