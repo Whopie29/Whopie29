@@ -32,7 +32,7 @@
 <!-- Connect Section -->
 <h3 align="left">🌐 Let's Connect</h3>
 <p align="left">
-  <a href="[https://linkedin.com/in/gaurav-malik-aiml007](https://www.linkedin.com/in/gauravmalik29/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/gaurav-malik-aiml007" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/gauravmalik81809" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
   <a href="https://leetcode.com/whopie" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://auth.geeksforgeeks.org/user/gauravmallz0v" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
