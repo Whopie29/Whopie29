@@ -1,19 +1,25 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=Gaurav%20Malik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=Gaurav%20Malik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%7C+ML+Developer;Data+Science+Enthusiast;Open+Source+Contributor;Building+Cool+Projects;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=AI+Engineer;Data+Science+Enthusiast;Open+Source+Contributor;Building+Cool+Projects;Always+Learning+New+Things"/>
 </p>
 
-<h3 align="center">🚀 AI Engineer | Data Scientist | Full Stack Developer</h3>
+<h3 align="center">
+
+🚀 AI Engineer | Data Scientist | Full Stack Developer
+
+</h3>
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=whopie29&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
 <img src="https://img.shields.io/github/followers/Whopie29?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/Whopie29?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -49,15 +55,11 @@ Currently Learning:
 
 <p align="center">
 
-<a href="https://linkedin.com/in/gauravmalik29">
+<a href="https://www.linkedin.com/in/gaurav-malik-aiml007/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://kaggle.com/gauravmalik29">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="https://www.leetcode.com/whopie">
+<a href="https://www.leetcode.com/u/whopie/">
 <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
@@ -65,7 +67,7 @@ Currently Learning:
 <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank"/>
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/gauravmallz0v">
+<a href="https://www.geeksforgeeks.org/user/gauravmallz0v/">
 <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge"/>
 </a>
 
@@ -77,48 +79,45 @@ Currently Learning:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,tailwind,git,github,docker,flask,tensorflow,pytorch,opencv,sklearn"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,tailwind,git,github,docker,flask,tensorflow,pytorch,opencv,sklearn"/>
 
 </p>
 
 ---
 
-## 📈 Activity Graph
+# 🏆 Achievements
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Whopie29&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%2FML-Enthusiast-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Projects
 
-<p align="center">
-
-<img width="48%"
-src="https://github-readme-stats.vercel.app/api?username=Whopie29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img width="48%"
-src="https://streak-stats.demolab.com?user=Whopie29&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="42%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whopie29&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</p>
+| Project | Description |
+|---------|-------------|
+| Spendify | AI-powered expense analyzer |
+| AllInOneAI | Collection of AI tools |
+| NeuraPixel | AI image generation platform |
+| Portfolio | Personal developer portfolio |
+| Jarvis OS | Desktop AI assistant |
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=whopie29&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Whopie29&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -128,7 +127,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whopie29&lay
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Whopie29/Whopie29/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -138,15 +137,32 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whopie29&lay
 
 <p align="center">
 
-<a href="https://leetcode.com/whopie">
+<a href="https://leetcode.com/u/whopie/">
+
 <img src="https://leetcard.jacoblin.cool/whopie?theme=dark&font=Karma"/>
+
 </a>
 
 </p>
 
 ---
 
-# 🔥 Quote
+# 📚 Currently Exploring
+
+```text
+LLMs
+Agentic AI
+LangChain
+Vector Databases
+RAG Systems
+MCP Servers
+Computer Vision
+Open Source AI
+```
+
+---
+
+# 💬 Quote
 
 <p align="center">
 
