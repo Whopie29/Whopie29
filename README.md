@@ -73,12 +73,17 @@
 <!-- Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whopie29&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whopie29&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Whopie29&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whopie29&layout=compact&theme=radical&langs_count=8"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app?user=whopie29&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+<img src="https://streak-stats.demolab.com?user=Whopie29&theme=radical"/>
+
 </p>
 
 ---
