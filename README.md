@@ -25,53 +25,69 @@
 ---
 
 
-<img align="right" width="300"
-src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/Tech%20Coding%20GIF%20by%20Capgemini%20India.gif"/>
+<h4 align="center">🧑‍💻 About Me</h4>
 
-<p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
 
-<img src="https://img.shields.io/badge/About_Me-00F7FF?style=for-the-badge&logo=github&logoColor=white"/>
+<td align="left" valign="middle">
 
-- 🎓 B.Tech CSE (AIML)
-- 🇮🇳 Based in India
-- 🤖 AI & ML Enthusiast
-- 💻 Full Stack Developer
-- 🚀 Building AI-powered applications
-- 🧠 Exploring LLMs & AI Agents
-- 🌱 Open Source Contributor
-- 🔥 Always learning something new
+<ul>
+<li>B.Tech CSE (AIML)</li>
+<li>Based in India</li>
+<li>AI & ML Enthusiast</li>
+<li>Full Stack Developer</li>
+<li>Building AI-powered applications</li>
+<li>Exploring LLMs, LangChain & AI Agents</li>
+<li>Open Source Contributor</li>
+<li>Always learning something new</li>
+</ul>
 
-</p>
+</td>
 
-<br clear="right"/>
+<td width="150"></td>
+
+<td align="center" valign="middle">
+
+<img
+src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/Tech%20Coding%20GIF%20by%20Capgemini%20India.gif"
+width="200"
+/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-<h4>🌐 Connect With Me</h4>
+---
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/gaurav-malik-aiml007/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.leetcode.com/u/whopie/">
-<img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/u/whopie/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.hackerrank.com/gauravmalik81809">
-<img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank"/>
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/gauravmallz0v/">
-<img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.naukri.com/code360/profile/Whoopie">
+<img src="https://img.shields.io/badge/Code360-FF6B00?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </a>
 
 </p>
 
 ---
-
-<h4>⚡ Tech Stack</h4>
 
 <p align="center">
 
@@ -80,8 +96,6 @@ src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/Tech%20Coding%20GI
 </p>
 
 ---
-
-<h4>🏆 Achievements</h4>
 
 <p align="center">
 
@@ -97,7 +111,7 @@ src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/Tech%20Coding%20GI
 
 ---
 
-<h4>🚀 Featured Projects</h4>
+<div align="center">
 
 | Project | Description |
 |---------|-------------|
@@ -107,19 +121,20 @@ src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/Tech%20Coding%20GI
 | Portfolio | Personal developer portfolio |
 | Jarvis OS | Desktop AI assistant |
 
+</div>
+
 ---
 
-<h4>📈 Contribution Graph</h4>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Whopie29&theme=tokyo-night&hide_border=true"/>
-
+  <img
+    width="75%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Whopie29&theme=tokyo-night&hide_border=true"
+  />
 </p>
 
 ---
 
-<h4>🐍 Contribution Snake</h4>
 
 <p align="center">
 
@@ -129,13 +144,40 @@ src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/Tech%20Coding%20GI
 
 ---
 
-<h4>💻 Coding Profiles</h4>
 
-<p align="center">
+<table align="center">
+
+<tr>
+
+<td align="center">
 
 <a href="https://leetcode.com/u/whopie/">
 
-<img src="https://leetcard.jacoblin.cool/whopie?theme=dark&font=Karma"/>
+<img src="https://leetcard.jacoblin.cool/whopie?theme=dark&font=Karma&ext=contest" width="360"/>
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://www.geeksforgeeks.org/user/gauravmallz0v/">
+
+<img src="https://gfgstatscard.vercel.app/gauravmallz0v" width="360"/>
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+<p align="center">
+
+<a href="https://www.naukri.com/code360/profile/Whoopie">
+
+<img src="https://img.shields.io/badge/Code360-Whoopie-FF6B00?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 </a>
 
@@ -143,7 +185,7 @@ src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/Tech%20Coding%20GI
 
 ---
 
-<h4>📚 Currently Exploring</h4>
+<h4 align="center">📚 Currently Exploring</h4>
 
 ```text
 LLMs
@@ -158,7 +200,6 @@ Open Source AI
 
 ---
 
-<h4>💬 Quote</h4>
 
 <p align="center">
 
