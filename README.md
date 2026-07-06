@@ -83,11 +83,11 @@ Currently Learning:
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 Activity Graph
 
 <p align="center">
 
-<img src="https://github-stats-whopie.vercel.app/api/top-langs/?username=Whopie29"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Whopie29&theme=tokyo-night"/>
 
 </p>
 
