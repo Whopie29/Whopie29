@@ -21,7 +21,6 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=whopie29&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/Whopie29?style=for-the-badge&logo=github&color=00F7FF&labelColor=black"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=ff00e5&label=Currently&query=%24.currently&url=https%3A%2F%2Fraw.githubusercontent.com%2FWhopie29%2FWhopie29%2Fmain%2Fstatus.json&logo=visualstudiocode" alt="status"/>
 </p>
 
 ---
@@ -136,13 +135,66 @@ Desktop AI assistant built to make your machine feel alive.
 <img src="https://github-profile-trophy.vercel.app/?username=Whopie29&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
 </p>
 
+<details>
+<summary><b>⚙️ Cards showing as broken images?</b></summary>
+<br>
+
+The stats/top-langs/trophy/activity-graph cards above are generated live by free, shared Vercel instances (<code>github-readme-stats</code>, <code>github-profile-trophy</code>, <code>github-readme-activity-graph</code>). They get hit hard by everyone's profile READMEs, so they occasionally rate-limit or time out — a hard refresh (Ctrl/Cmd+Shift+R) usually fixes it within a few minutes. If it stays broken for you long-term, the reliable fix is deploying your own copies of these projects to your own Vercel account (each has a "Deploy" button on its GitHub repo) and swapping the URLs to point at your instance instead.
+
+</details>
+
 ---
 
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Whopie29/Whopie29/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
+<details>
+<summary><b>⚙️ Snake not showing? Click for one-time setup (takes ~2 min)</b></summary>
+<br>
+
+This image only renders once you generate it yourself via a GitHub Action in this repo. Steps:
+
+1. In this repo (`Whopie29/Whopie29`), go to **Actions → New workflow → set up a workflow yourself**.
+2. Name the file `snake.yml` and paste in:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: Whopie29
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Commit it, then run the workflow once manually from the **Actions** tab (`Run workflow`).
+4. It creates an `output` branch with the SVG — the image above will then load automatically. It re-generates every 6 hours after that.
+
+</details>
 
 ---
 
@@ -186,12 +238,6 @@ Desktop AI assistant built to make your machine feel alive.
 </p>
 
 ---
-
-<h3 align="center">📈 Live Metrics Graph</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Whopie29&theme=tokyonight&hide_border=true&layout=compact" onerror="this.style.display='none'"/>
-</p>
 
 <!-- Waving Footer -->
 <p align="center">
