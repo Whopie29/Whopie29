@@ -119,8 +119,8 @@ Desktop AI assistant built to make your machine feel alive.
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Whopie29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whopie29&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/generated-images/overview.svg"/>
+<img src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/generated-images/languages.svg"/>
 </p>
 
 <p align="center">
@@ -128,18 +128,61 @@ Desktop AI assistant built to make your machine feel alive.
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Whopie29&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Whopie29&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
+<img src="https://raw.githubusercontent.com/Whopie29/Whopie29/main/generated-images/trophy.svg"/>
 </p>
 
 <details>
-<summary><b>⚙️ Cards showing as broken images?</b></summary>
+<summary><b>⚙️ These aren't showing yet — one-time setup (~3 min)</b></summary>
 <br>
 
-The stats/top-langs/trophy/activity-graph cards above are generated live by free, shared Vercel instances (<code>github-readme-stats</code>, <code>github-profile-trophy</code>, <code>github-readme-activity-graph</code>). They get hit hard by everyone's profile READMEs, so they occasionally rate-limit or time out — a hard refresh (Ctrl/Cmd+Shift+R) usually fixes it within a few minutes. If it stays broken for you long-term, the reliable fix is deploying your own copies of these projects to your own Vercel account (each has a "Deploy" button on its GitHub repo) and swapping the URLs to point at your instance instead.
+The stats, top-languages, and trophy cards above used to be generated live by free public Vercel demos (<code>github-readme-stats.vercel.app</code>, <code>github-profile-trophy.vercel.app</code>). Both of those shared demo instances have been **permanently paused by their maintainers** due to overload — so those URLs will never work again for anyone, no matter how many times you refresh.
+
+The fix: generate them yourself as static SVGs via a GitHub Action that commits the images straight into this repo. Your README then loads them from GitHub's own CDN — fast, and immune to any third-party outage.
+
+1. In this repo (`Whopie29/Whopie29`), go to **Actions → New workflow → set up a workflow yourself**.
+2. Name the file `stats.yml` and paste in:
+
+```yaml
+name: Generate Stats
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate overview & language stats
+        uses: jstrieb/github-stats@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Whopie29
+          output_path: generated-images/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add generated-images/*.svg
+          git diff --staged --quiet || git commit -m "chore: update stats images"
+          git push
+```
+
+3. Commit it, then run it once manually from the **Actions** tab (`Run workflow`).
+4. It'll create a `generated-images/` folder with `overview.svg`, `languages.svg`, and `trophy.svg` — the cards above will then load automatically. It refreshes itself every 12 hours after that.
 
 </details>
 
