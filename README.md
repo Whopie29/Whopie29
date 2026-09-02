@@ -88,13 +88,13 @@ whoami:
 <tr>
 <td width="50%">
 
-### 💰 [Spendify](#)
+### 💰 [Spendify](https://github.com/Whopie29/Spendify_)
 AI-powered expense analyzer that turns your spending chaos into clean insights.
 
 </td>
 <td width="50%">
 
-### 🧩 [AllInOneAI](#)
+### 🧩 [AllInOneAI](https://github.com/Whopie29/AllinOneAI)
 A curated collection of handy AI tools, all in one place.
 
 </td>
@@ -102,13 +102,13 @@ A curated collection of handy AI tools, all in one place.
 <tr>
 <td width="50%">
 
-### 🖼️ [NeuraPixel](#)
+### 🖼️ [NeuraPixel](https://github.com/Whopie29/NeuraPixel)
 AI image generation platform for turning prompts into art.
 
 </td>
 <td width="50%">
 
-### 🌐 [Portfolio](#)
+### 🌐 [Portfolio](https://github.com/Whopie29/portfolio-main)
 Personal developer portfolio showcasing projects & journey.
 
 </td>
@@ -116,7 +116,7 @@ Personal developer portfolio showcasing projects & journey.
 <tr>
 <td width="50%">
 
-### 🤖 [Jarvis OS](#)
+### 🤖 [Jarvis OS](https://github.com/Whopie29/desktop-assistant-)
 Desktop AI assistant built to make your machine feel alive.
 
 </td>
