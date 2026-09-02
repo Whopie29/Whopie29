@@ -88,13 +88,13 @@ whoami:
 <tr>
 <td width="50%">
 
-### 💰 Spendify
+### 💰 [Spendify](#)
 AI-powered expense analyzer that turns your spending chaos into clean insights.
 
 </td>
 <td width="50%">
 
-### 🧩 AllInOneAI
+### 🧩 [AllInOneAI](#)
 A curated collection of handy AI tools, all in one place.
 
 </td>
@@ -102,22 +102,28 @@ A curated collection of handy AI tools, all in one place.
 <tr>
 <td width="50%">
 
-### 🖼️ NeuraPixel
+### 🖼️ [NeuraPixel](#)
 AI image generation platform for turning prompts into art.
 
 </td>
 <td width="50%">
 
-### 🌐 Portfolio
+### 🌐 [Portfolio](#)
 Personal developer portfolio showcasing projects & journey.
 
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td width="50%">
 
-### 🤖 Jarvis OS
+### 🤖 [Jarvis OS](#)
 Desktop AI assistant built to make your machine feel alive.
+
+</td>
+<td width="50%">
+
+### 📻 [Karwaan Radio](https://github.com/Whopie29/ViralRadio-main)
+Radio-style streaming project for discovering and playing viral tracks.
 
 </td>
 </tr>
