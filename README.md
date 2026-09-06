@@ -122,7 +122,7 @@ Desktop AI assistant built to make your machine feel alive.
 </td>
 <td width="50%">
 
-### 📻 [Karwaan Radio](https://github.com/Whopie29/ViralRadio-main)
+### 📻 [Karwaan Radio](www.karwaanradio.website/)
 Radio-style streaming project for discovering and playing viral tracks.
 
 </td>
